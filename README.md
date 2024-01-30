@@ -1,1 +1,1 @@
-# is-310-repo
+# is-310-coding-assignments
